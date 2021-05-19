@@ -66,7 +66,7 @@ function Home() {
                     <option value="oceania">Oceania</option>
                 </select>
             </div>
-            <div className="container grid grid-cols-4 gap-16 mx-auto">
+            <div className="container grid sm:grid-cols-1 md:grid-cols-2  lg:grid-cols-3  xl:grid-cols-4 gap-16 mx-auto">
                 {countries.map( (country, index ) => <Link to={{ pathname : "details", state: country }}  key={index}><ThumbDetail 
                                                             title={country.name} 
                                                             image_url={country.flag} 
