@@ -1,9 +1,14 @@
-# Frontend Mentor - REST Countries API with color theme switcher
+# Frontend Mentor - REST Countries API
 
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
+## Stack
+
+- React
+- Tailwind CSS
+- REST Countries API
 
 ## The challenge
 
@@ -18,7 +23,6 @@ Your users should be able to:
 - Filter countries by region
 - Click on a country to see more detailed information on a separate page
 - Click through to the border countries on the detail page
-- Toggle the color scheme between light and dark mode *(optional)*
-
+- Toggle the color scheme between light and dark mode _(optional)_
 
 ![image](https://res.cloudinary.com/dz209s6jk/image/upload/v1554827486/Challenges/wirxeocmd6tpnn9c5oqc.jpg)
